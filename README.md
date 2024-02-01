@@ -5,6 +5,11 @@ I am Chen, a junior Software Engineer.
 
 - 📫 How to reach me: chenbtol@gmail.com
 
+ 🧠 My projects
+- Final project – A blockchain based car sharing app that allows companies and individuals to
+rent out their vehicles. Includes Solidity based smart contracts, Geth and MetaMask.
+Frontend was developed in React.
+
 
 <!--
 **chenBenTolila/chenBenTolila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
