@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am Chen, a junior Software Engineer.
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](link=https://www.linkedin.com/in/chen-ben-tolila-393172232/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 
 <!--
 **chenBenTolila/chenBenTolila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
