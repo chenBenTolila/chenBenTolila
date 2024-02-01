@@ -5,10 +5,17 @@ I am Chen, a junior Software Engineer.
 
 - 📫 How to reach me: chenbtol@gmail.com
 
- 🧠 My projects
-- Final project – A blockchain based car sharing app that allows companies and individuals to
+
+ 🧠 My projects 🧠
+- Final project – A blockchain based car sharing web app that allows companies and individuals to
 rent out their vehicles. Includes Solidity based smart contracts, Geth and MetaMask.
 Frontend was developed in React.
+- A simulation of a virus spreading in a population. The simulation is a
+multi-threaded Java program, based on OOP and design patterns such as Proxy,
+Observer, etc.
+- Social media app - Includes posts and chat - Using Rest API and Socket.io. The frontend was
+developed in TypeScript and React Native, the backend is in Node.js and uses MongoDB.
+
 
 
 <!--
