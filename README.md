@@ -3,6 +3,10 @@ I am Chen, a junior Software Engineer.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/)
+
+[![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+
 
 <!--
 **chenBenTolila/chenBenTolila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
